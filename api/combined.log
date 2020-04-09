@@ -1,0 +1,38 @@
+{"message":"Server ready at http://localhost:4000","level":"info","service":"your-service-name","timestamp":"2020-04-06 23:17:03"}
+{"message":"[DB] Database was created","level":"info","service":"your-service-name","timestamp":"2020-04-06 23:17:03"}
+{"message":"Server ready at http://localhost:4000","level":"info","service":"your-service-name","timestamp":"2020-04-06 23:32:19"}
+{"message":"[DB] Database was created","level":"info","service":"your-service-name","timestamp":"2020-04-06 23:32:19"}
+{"message":"Server ready at http://localhost:4000","level":"info","service":"your-service-name","timestamp":"2020-04-06 23:32:39"}
+{"message":"[DB] Database was created","level":"info","service":"your-service-name","timestamp":"2020-04-06 23:32:39"}
+{"message":"Server ready at http://localhost:4000","level":"info","service":"your-service-name","timestamp":"2020-04-06 23:32:58"}
+{"message":"[DB] Database was created","level":"info","service":"your-service-name","timestamp":"2020-04-06 23:32:58"}
+{"message":"Server ready at http://localhost:4000","level":"info","service":"your-service-name","timestamp":"2020-04-06 23:34:51"}
+{"message":"[DB] Database was created","level":"info","service":"your-service-name","timestamp":"2020-04-06 23:34:51"}
+{"message":"Server ready at http://localhost:4000","level":"info","service":"your-service-name","timestamp":"2020-04-07 20:34:58"}
+{"message":"[DB] Database was created","level":"info","service":"your-service-name","timestamp":"2020-04-07 20:34:58"}
+{"message":"Server ready at http://localhost:4000","level":"info","service":"your-service-name","timestamp":"2020-04-07 20:42:53"}
+{"message":"[DB] Database was created","level":"info","service":"your-service-name","timestamp":"2020-04-07 20:42:53"}
+{"message":"Server ready at http://localhost:4000","level":"info","service":"your-service-name","timestamp":"2020-04-07 20:44:24"}
+{"message":"[DB] Database was created","level":"info","service":"your-service-name","timestamp":"2020-04-07 20:44:24"}
+{"message":"Server ready at http://localhost:4000","level":"info","service":"your-service-name","timestamp":"2020-04-07 20:44:55"}
+{"message":"[DB] Database was created","level":"info","service":"your-service-name","timestamp":"2020-04-07 20:44:55"}
+{"message":"User created","level":"info","service":"your-service-name","timestamp":"2020-04-07 20:44:55"}
+{"message":"Server ready at http://localhost:4000","level":"info","service":"your-service-name","timestamp":"2020-04-07 21:04:47"}
+{"message":"[DB] Database was created","level":"info","service":"your-service-name","timestamp":"2020-04-07 21:04:47"}
+{"message":"User created","level":"info","service":"your-service-name","timestamp":"2020-04-07 21:04:47"}
+{"message":"Server ready at http://localhost:4000","level":"info","service":"your-service-name","timestamp":"2020-04-07 21:24:55"}
+{"message":"[DB] Database was created","level":"info","service":"your-service-name","timestamp":"2020-04-07 21:24:55"}
+{"message":"User created","level":"info","service":"your-service-name","timestamp":"2020-04-07 21:24:55"}
+{"message":"Server ready at http://localhost:4000","level":"info","service":"your-service-name","timestamp":"2020-04-07 21:25:43"}
+{"message":"[DB] Database was created","level":"info","service":"your-service-name","timestamp":"2020-04-07 21:25:43"}
+{"message":"User created","level":"info","service":"your-service-name","timestamp":"2020-04-07 21:25:43"}
+{"message":"Server ready at http://localhost:4000","level":"info","service":"your-service-name","timestamp":"2020-04-07 21:26:20"}
+{"message":"[DB] Database was created","level":"info","service":"your-service-name","timestamp":"2020-04-07 21:26:20"}
+{"message":"User created","level":"info","service":"your-service-name","timestamp":"2020-04-07 21:26:20"}
+{"message":"Server ready at http://localhost:4000","level":"info","service":"your-service-name","timestamp":"2020-04-07 21:32:52"}
+{"message":"[DB] Database was created","level":"info","service":"your-service-name","timestamp":"2020-04-07 21:32:52"}
+{"message":"User created","level":"info","service":"your-service-name","timestamp":"2020-04-07 21:32:52"}
+{"message":"Server ready at http://localhost:4000","level":"info","service":"your-service-name","timestamp":"2020-04-08 23:11:12"}
+{"message":"[DB] Database was created","level":"info","service":"your-service-name","timestamp":"2020-04-08 23:11:12"}
+{"message":"Server ready at http://localhost:4000","level":"info","service":"your-service-name","timestamp":"2020-04-08 23:11:36"}
+{"message":"[DB] Database was created","level":"info","service":"your-service-name","timestamp":"2020-04-08 23:11:36"}
